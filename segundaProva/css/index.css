@@ -1,0 +1,19 @@
+table{
+    border-spacing: 0px;
+}
+td{
+    padding: 0px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.celula{
+    text-align: right;
+}
+
+input{
+    width: 90%;
+    height: 40px;
+    border: 0px solid black;
+}
